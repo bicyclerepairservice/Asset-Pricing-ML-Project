@@ -9,3 +9,5 @@ Derive the most effective machine learning algorithms to predict future returns 
   1.3 Code-GDP - code using predictions using datagenerating process introduced in the sample code of the basline paper of Shiho Gu
 
 ### 2. Main Results
+
+Soon to be added...
