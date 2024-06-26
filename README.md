@@ -3,7 +3,7 @@ Derive the most effective machine learning algorithms to predict future returns 
 
 ## Reseach is based on the paper of "Empirical Asset Pricing via Machine Learning" by Shihao Gu, Bryan Kelly, Dacheng Xiu: https://academic.oup.com/rfs/article/33/5/2223/5758276
 
-1. Repository Guide
+## 1. Repository Guide
    
   1.1 Code-RealData-Tables - code with the main R^2 estimation of the monthly asset returns
   
